@@ -1,4 +1,4 @@
-# Genre-Predictor(Under-Development)
+# Genre-Predictor
 Using the crux of Deep Learning, implemented a genre predictor using a NN.
 
 # Description #
